@@ -1,0 +1,9 @@
+{
+  "name": "mulder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "convert-csv-to-json": "^0.0.13"
+  }
+}
